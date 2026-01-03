@@ -1,4 +1,5 @@
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+# Smart Medical Assistant Chatbot 
+A RAG based medical assistant answering all your medical concerns.
 
 # How to run?
 ### STEPS:
