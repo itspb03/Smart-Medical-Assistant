@@ -3,8 +3,7 @@ langchain
 langchain-community
 langchain-pinecone
 langchain-groq
-pinecone-client
-pinecone-grpc
+pinecone-client[grpc]
 python-dotenv
 sentence-transformers
 pypdf
